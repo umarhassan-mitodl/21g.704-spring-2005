@@ -5,6 +5,8 @@ description: "This resource contains information regarding formaci\xF3n de manda
 file: /courses/21g-704-spanish-iv-spring-2005/ca6192d8201d6a437a9a2102d6127988_MIT21G_704S05_mandatos.pdf
 file_size: 103703
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: "This resource contains information regarding composici\xF3n #2."
 file: /courses/21g-704-spanish-iv-spring-2005/8db440b0908e2a812f0d1b6b9b57936e_MIT21G_704S05_composition2.pdf
 file_size: 97307
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
