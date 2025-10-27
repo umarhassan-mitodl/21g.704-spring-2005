@@ -4,8 +4,6 @@ description: 'This resource contains information regarding entrevistas: voces de
 file: /courses/21g-704-spanish-iv-spring-2005/f7e0d9468acea96ccda3bdf3ba31b09f_MIT21G_704S05_vocesinmigra.pdf
 file_size: 110310
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

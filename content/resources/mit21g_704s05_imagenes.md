@@ -5,8 +5,6 @@ description: "This resource contains information regarding espa\xF1a de cerca : 
 file: /courses/21g-704-spanish-iv-spring-2005/13234e0aab60987527d3f98e6113c588_MIT21G_704S05_imagenes.pdf
 file_size: 99155
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

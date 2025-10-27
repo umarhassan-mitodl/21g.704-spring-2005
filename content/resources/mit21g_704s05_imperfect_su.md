@@ -5,8 +5,6 @@ description: "This resource contains information regarding un se\xF1or muy viejo
 file: /courses/21g-704-spanish-iv-spring-2005/39ce8ce28c464155a7223828d635586a_MIT21G_704S05_imperfect_su.pdf
 file_size: 92535
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

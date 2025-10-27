@@ -5,8 +5,6 @@ description: "This resource contains information regarding CLAVE PARA LA CORRECC
 file: /courses/21g-704-spanish-iv-spring-2005/319394442ce5ee2c558a9f06e927e25c_MIT21G_704S05_clave_correc.pdf
 file_size: 598911
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

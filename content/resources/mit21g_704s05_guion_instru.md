@@ -5,8 +5,6 @@ description: "This resource contains information regarding composici\xF3n # 3: c
 file: /courses/21g-704-spanish-iv-spring-2005/cdbc53492abf86922edb038bba6a283e_MIT21G_704S05_guion_instru.pdf
 file_size: 578938
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: "This resource contains information regarding espa\xF1a de cerca: T
 file: /courses/21g-704-spanish-iv-spring-2005/ae973c34f37f03b47a95f9e41b338b0f_MIT21G_704S05_familia_y_mu.pdf
 file_size: 111833
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains information regarding los inmigrantes.
 file: /courses/21g-704-spanish-iv-spring-2005/89003d6147176223c5f60dd8253c0f75_MIT21G_704S05_los_in_v_llo.pdf
 file_size: 563987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
